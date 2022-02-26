@@ -7,7 +7,7 @@ Skills: Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Postman, SoapUI, J
 - 🌱 I’m currently learning Mobile Automation and Personal Finance.
 - 👯 I’m looking to collaborate on QA Automation
 
-####Connect with me:
+#### Connect with me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zpaya) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zpaya/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.qalititude.blogspot.com/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube | Payazee' height='40'>](https://youtube.com/c/payazee)
 
