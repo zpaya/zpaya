@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Mohamed Zishan Paya
-#### Automation Test Engineer | Youtuber | Learner
+#### Software Developer | Python | Java | Automation Test Engineer | Youtuber | Learner
 
-Skills: Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Postman, SoapUI, Java, C#, Angular, Software Testing.
+Skills: AWS, Java, Python, Selenium, Appium, Rest Assured, Docker, Jenkins, Git, Postman, SoapUI, Java, C#, Angular, Software Testing.
 
 - 🔭 I’m currently working on Mobile and Web Automation.
 - 🌱 I’m currently learning Mobile Automation and Personal Finance.
